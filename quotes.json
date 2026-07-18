@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "quote": "Kesuksesan berasal dari konsistensi dan kerja keras setiap hari.",
+    "author": "Anonymous",
+    "category": "Motivasi",
+    "createdAt": "2026-07-18T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "quote": "Jangan pernah menyerah pada mimpimu, karena mimpimu adalah jalan menuju masa depanmu.",
+    "author": "Walt Disney",
+    "category": "Inspirasi",
+    "createdAt": "2026-07-18T10:31:00Z"
+  },
+  {
+    "id": 3,
+    "quote": "Pendidikan adalah senjata paling ampuh yang bisa kamu gunakan untuk mengubah dunia.",
+    "author": "Nelson Mandela",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T10:32:00Z"
+  },
+  {
+    "id": 4,
+    "quote": "Hidup ini terlalu singkat untuk dihabiskan dengan menyesali hal-hal yang sudah terjadi.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T10:33:00Z"
+  },
+  {
+    "id": 5,
+    "quote": "Teknologi adalah alat yang hebat untuk menciptakan perubahan positif dalam masyarakat.",
+    "author": "Bill Gates",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T10:34:00Z"
+  },
+  {
+    "id": 6,
+    "quote": "Kode yang bagus adalah kode yang bisa dipahami oleh programmer lain.",
+    "author": "Martin Fowler",
+    "category": "Programming",
+    "createdAt": "2026-07-18T10:35:00Z"
+  },
+  {
+    "id": 7,
+    "quote": "Persahabatan sejati adalah harta yang tak ternilai harganya dalam perjalanan hidup ini.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T10:36:00Z"
+  },
+  {
+    "id": 8,
+    "quote": "Cinta sejati tidak pernah memudar, ia hanya bertumbuh semakin dalam seiring waktu.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T10:37:00Z"
+  },
+  {
+    "id": 9,
+    "quote": "Sesungguhnya bersama kesulitan ada kemudahan, maka jangan pernah putus asa.",
+    "author": "Al-Quran",
+    "category": "Islami",
+    "createdAt": "2026-07-18T10:38:00Z"
+  },
+  {
+    "id": 10,
+    "quote": "Saya tidak gagal, saya hanya menemukan sepuluh ribu cara yang tidak berhasil.",
+    "author": "Thomas Edison",
+    "category": "Humor",
+    "createdAt": "2026-07-18T10:39:00Z"
+  },
+  {
+    "id": 11,
+    "quote": "Bisnis yang sukses dibangun di atas fondasi kepercayaan dan kualitas layanan.",
+    "author": "Richard Branson",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T10:40:00Z"
+  },
+  {
+    "id": 12,
+    "quote": "Produktivitas bukan tentang melakukan lebih banyak, tapi tentang melakukan hal yang benar.",
+    "author": "Peter Drucker",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T10:41:00Z"
+  },
+  {
+    "id": 13,
+    "quote": "Setiap langkah kecil yang konsisten akan membawamu ke puncak kesuksesan.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T10:42:00Z"
+  },
+  {
+    "id": 14,
+    "quote": "Belajar dari kesalahan adalah cara terbaik untuk tumbuh menjadi pribadi yang lebih baik.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T10:43:00Z"
+  },
+  {
+    "id": 15,
+    "quote": "Kehidupan ini seperti bersepeda, untuk menjaga keseimbanganmu harus terus bergerak maju.",
+    "author": "Albert Einstein",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T10:44:00Z"
+  },
+  {
+    "id": 16,
+    "quote": "Inovasi membedakan antara pemimpin dan pengikut dalam dunia teknologi.",
+    "author": "Steve Jobs",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T10:45:00Z"
+  },
+  {
+    "id": 17,
+    "quote": "Program yang bagus adalah program yang bekerja dengan baik dan mudah dirawat.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T10:46:00Z"
+  },
+  {
+    "id": 18,
+    "quote": "Seorang teman sejati adalah seseorang yang ada untukmu ketika dunia meninggalkanmu.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T10:47:00Z"
+  },
+  {
+    "id": 19,
+    "quote": "Cinta adalah kekuatan paling kuat yang dimiliki manusia untuk mengubah dunia.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T10:48:00Z"
+  },
+  {
+    "id": 20,
+    "quote": "Barang siapa yang menempuh jalan untuk mencari ilmu, Allah akan memudahkan baginya jalan ke surga.",
+    "author": "HR. Muslim",
+    "category": "Islami",
+    "createdAt": "2026-07-18T10:49:00Z"
+  },
+  {
+    "id": 21,
+    "quote": "Saya selalu mengatakan kepada orang-orang, jadilah diri sendiri dan jangan pernah meniru orang lain.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T10:50:00Z"
+  },
+  {
+    "id": 22,
+    "quote": "Peluang bisnis bagaikan bus, selalu ada yang berikutnya datang setiap menit.",
+    "author": "Richard Branson",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T10:51:00Z"
+  },
+  {
+    "id": 23,
+    "quote": "Fokus pada hasil yang penting, bukan pada aktivitas yang membuatmu sibuk.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T10:52:00Z"
+  },
+  {
+    "id": 24,
+    "quote": "Kegagalan adalah bumbu yang memberi rasa pada kesuksesan sejati.",
+    "author": "Truman Capote",
+    "category": "Motivasi",
+    "createdAt": "2026-07-18T10:53:00Z"
+  },
+  {
+    "id": 25,
+    "quote": "Impianmu tidak memiliki tanggal kedaluwarsa, ambil napas dalam-dalam dan coba lagi.",
+    "author": "Anonymous",
+    "category": "Inspirasi",
+    "createdAt": "2026-07-18T10:54:00Z"
+  },
+  {
+    "id": 26,
+    "quote": "Ilmu pengetahuan adalah cahaya yang menerangi jalan menuju kemajuan peradaban.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T10:55:00Z"
+  },
+  {
+    "id": 27,
+    "quote": "Jadilah perubahan yang ingin kamu lihat di dunia ini.",
+    "author": "Mahatma Gandhi",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T10:56:00Z"
+  },
+  {
+    "id": 28,
+    "quote": "Kecerdasan buatan akan mengubah cara kita bekerja, hidup, dan berinteraksi satu sama lain.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T10:57:00Z"
+  },
+  {
+    "id": 29,
+    "quote": "Debugging adalah seperti menjadi detektif dalam film kriminal di mana kamu juga adalah pembunuhnya.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T10:58:00Z"
+  },
+  {
+    "id": 30,
+    "quote": "Teman sejati adalah cermin terbaik yang bisa kamu miliki dalam hidup ini.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T10:59:00Z"
+  },
+  {
+    "id": 31,
+    "quote": "Cinta sejati tidak memandang fisik, tetapi melihat keindahan di dalam hati.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:00:00Z"
+  },
+  {
+    "id": 32,
+    "quote": "Dan bersabarlah, sesungguhnya Allah bersama orang-orang yang sabar.",
+    "author": "Al-Quran",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:01:00Z"
+  },
+  {
+    "id": 33,
+    "quote": "Saya tidak tahu mengapa orang-orang menyukai saya, mungkin karena saya lucu tanpa sadar.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:02:00Z"
+  },
+  {
+    "id": 34,
+    "quote": "Jangan pernah menginvestasikan uang dalam bisnis yang tidak kamu pahami sepenuhnya.",
+    "author": "Warren Buffett",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:03:00Z"
+  },
+  {
+    "id": 35,
+    "quote": "Rencanakan pekerjaanmu dan kerjakan rencanamu dengan disiplin tinggi.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:04:00Z"
+  },
+  {
+    "id": 36,
+    "quote": "Kesuksesan bukan tentang seberapa banyak uang yang kamu hasilkan, tapi seberapa banyak perbedaan yang kamu buat.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T11:05:00Z"
+  },
+  {
+    "id": 37,
+    "quote": "Setiap hari adalah kesempatan baru untuk belajar sesuatu yang menakjubkan.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T11:06:00Z"
+  },
+  {
+    "id": 38,
+    "quote": "Hidup ini indah jika kamu melihatnya dengan mata yang penuh syukur.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T11:07:00Z"
+  },
+  {
+    "id": 39,
+    "quote": "Software akan memakan dunia, dan setiap perusahaan akan menjadi perusahaan software.",
+    "author": "Marc Andreessen",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T11:08:00Z"
+  },
+  {
+    "id": 40,
+    "quote": "Kode yang ditulis hari ini adalah utang teknologi yang harus dibayar besok.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T11:09:00Z"
+  },
+  {
+    "id": 41,
+    "quote": "Persahabatan sejati tidak membutuhkan kata-kata, hanya kehadiran yang tulus.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T11:10:00Z"
+  },
+  {
+    "id": 42,
+    "quote": "Cinta adalah bahasa universal yang dipahami oleh setiap hati di dunia ini.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:11:00Z"
+  },
+  {
+    "id": 43,
+    "quote": "Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri.",
+    "author": "Al-Quran",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:12:00Z"
+  },
+  {
+    "id": 44,
+    "quote": "Saya diet ketat, tapi makanan selalu menemukan jalannya ke mulut saya.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:13:00Z"
+  },
+  {
+    "id": 45,
+    "quote": "Pelanggan yang paling tidak puas adalah sumber pembelajaran terbesar untuk bisnismu.",
+    "author": "Bill Gates",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:14:00Z"
+  },
+  {
+    "id": 46,
+    "quote": "Kerjakan tugas paling sulit di pagi hari, karena itu adalah waktu otakmu paling segar.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:15:00Z"
+  },
+  {
+    "id": 47,
+    "quote": "Orang sukses melakukan apa yang orang tidak sukses tidak mau lakukan.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T11:16:00Z"
+  },
+  {
+    "id": 48,
+    "quote": "Pengetahuan adalah kekuatan, tetapi penerapannya adalah kebijaksanaan sejati.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T11:17:00Z"
+  },
+  {
+    "id": 49,
+    "quote": "Jangan bandingkan hidupmu dengan orang lain, karena setiap orang punya jalannya sendiri.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T11:18:00Z"
+  },
+  {
+    "id": 50,
+    "quote": "Data adalah minyak baru abad ke-21, dan analisis adalah mesin yang mengubahnya menjadi energi.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T11:19:00Z"
+  },
+  {
+    "id": 51,
+    "quote": "Dua baris kode yang bagus lebih baik dari seratus baris yang buruk.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T11:20:00Z"
+  },
+  {
+    "id": 52,
+    "quote": "Teman adalah keluarga yang kamu pilih sendiri untuk menemani perjalanan hidupmu.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T11:21:00Z"
+  },
+  {
+    "id": 53,
+    "quote": "Cinta sejati adalah ketika dua jiwa saling melengkapi dan tumbuh bersama.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:22:00Z"
+  },
+  {
+    "id": 54,
+    "quote": "Tidak ada yang lebih besar daripada bersyukur atas nikmat yang Allah berikan setiap harinya.",
+    "author": "Anonymous",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:23:00Z"
+  },
+  {
+    "id": 55,
+    "quote": "Saya tidak malas, saya hanya sedang dalam mode hemat energi yang sangat efisien.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:24:00Z"
+  },
+  {
+    "id": 56,
+    "quote": "Jangan takut untuk memulai bisnis kecil, karena setiap raksasa bermula dari langkah kecil.",
+    "author": "Anonymous",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:25:00Z"
+  },
+  {
+    "id": 57,
+    "quote": "List todo-mu adalah peta jalan menuju produktivitas yang konsisten.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:26:00Z"
+  },
+  {
+    "id": 58,
+    "quote": "Kesuksesan adalah perjalanan, bukan tujuan akhir yang harus dicapai.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T11:27:00Z"
+  },
+  {
+    "id": 59,
+    "quote": "Belajar sepanjang hayat adalah kunci untuk tetap relevan di era yang terus berubah.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T11:28:00Z"
+  },
+  {
+    "id": 60,
+    "quote": "Kebahagiaan sejati datang dari dalam, bukan dari hal-hal material di luar dirimu.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T11:29:00Z"
+  },
+  {
+    "id": 61,
+    "quote": "Cloud computing telah merevolusi cara perusahaan mengelola dan memproses data mereka.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T11:30:00Z"
+  },
+  {
+    "id": 62,
+    "quote": "Refactoring adalah seni membersihkan kode tanpa mengubah perilaku luarnya.",
+    "author": "Martin Fowler",
+    "category": "Programming",
+    "createdAt": "2026-07-18T11:31:00Z"
+  },
+  {
+    "id": 63,
+    "quote": "Teman yang baik adalah seseorang yang mengingatkanmu akan kebaikanmu, bukan kesalahanmu.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T11:32:00Z"
+  },
+  {
+    "id": 64,
+    "quote": "Cinta tidak membutuhkan alasan, ia hanya butuh dua hati yang saling memahami.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:33:00Z"
+  },
+  {
+    "id": 65,
+    "quote": "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya.",
+    "author": "HR. Tirmidzi",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:34:00Z"
+  },
+  {
+    "id": 66,
+    "quote": "Saya tidak pernah salah, saya hanya menemukan cara-cara baru untuk tidak melakukan sesuatu.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:35:00Z"
+  },
+  {
+    "id": 67,
+    "quote": "Bisnis yang hebat dibangun oleh tim yang hebat, bukan oleh individu yang hebat sendirian.",
+    "author": "Anonymous",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:36:00Z"
+  },
+  {
+    "id": 68,
+    "quote": "Automasi tugas yang berulang adalah rahasia produktivitas para pemain top dunia.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:37:00Z"
+  },
+  {
+    "id": 69,
+    "quote": "Kesuksesan datang kepada mereka yang bangkit lebih cepat dari kejatuhan mereka.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T11:38:00Z"
+  },
+  {
+    "id": 70,
+    "quote": "Buku adalah jendela dunia yang membuka pikiranmu pada kemungkinan-kemungkinan tak terbatas.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T11:39:00Z"
+  },
+  {
+    "id": 71,
+    "quote": "Hidup ini seperti kanvas kosong, dan kamu adalah pelukis yang menentukan warnanya.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T11:40:00Z"
+  },
+  {
+    "id": 72,
+    "quote": "Internet of Things akan menghubungkan setiap aspek kehidupan kita dalam satu jaringan pintar.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T11:41:00Z"
+  },
+  {
+    "id": 73,
+    "quote": "Unit test adalah jaring pengaman yang melindungi kode dari regresi di masa depan.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T11:42:00Z"
+  },
+  {
+    "id": 74,
+    "quote": "Persahabatan sejati tahan uji waktu dan jarak, karena ikatan hati tidak mengenal batas.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T11:43:00Z"
+  },
+  {
+    "id": 75,
+    "quote": "Cinta adalah komitmen untuk saling mendukung dalam suka dan duka.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:44:00Z"
+  },
+  {
+    "id": 76,
+    "quote": "Orang yang paling dicintai Allah adalah yang paling bermanfaat bagi sesamanya.",
+    "author": "HR. Thabrani",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:45:00Z"
+  },
+  {
+    "id": 77,
+    "quote": "Saya punya rencana besar untuk hari ini, tapi kasur saya punya rencana yang lebih besar.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:46:00Z"
+  },
+  {
+    "id": 78,
+    "quote": "Kunci bisnis yang sukses adalah memahami kebutuhan pelanggan sebelum mereka sendiri menyadarinya.",
+    "author": "Steve Jobs",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:47:00Z"
+  },
+  {
+    "id": 79,
+    "quote": "Teknik Pomodoro adalah cara sederhana untuk meningkatkan fokus dan produktivitasmu.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:48:00Z"
+  },
+  {
+    "id": 80,
+    "quote": "Kesuksesan sejati adalah ketika kamu bisa membantu orang lain meraih kesuksesan mereka.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T11:49:00Z"
+  },
+  {
+    "id": 81,
+    "quote": "Setiap orang yang kamu temui tahu sesuatu yang tidak kamu ketahui, jadi belajarlah dari mereka.",
+    "author": "Bill Nye",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T11:50:00Z"
+  },
+  {
+    "id": 82,
+    "quote": "Hidup ini terlalu berharga untuk dihabiskan dengan memikirkan apa kata orang lain.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T11:51:00Z"
+  },
+  {
+    "id": 83,
+    "quote": "Blockchain akan mengubah cara kita mempercayai dan memverifikasi transaksi di masa depan.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T11:52:00Z"
+  },
+  {
+    "id": 84,
+    "quote": "Clean code adalah kode yang ditulis dengan penuh perhatian dan rasa tanggung jawab.",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "createdAt": "2026-07-18T11:53:00Z"
+  },
+  {
+    "id": 85,
+    "quote": "Teman sejati adalah orang yang tahu semua tentangmu dan tetap memilih untuk tinggal.",
+    "author": "Elbert Hubbard",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T11:54:00Z"
+  },
+  {
+    "id": 86,
+    "quote": "Cinta sejati adalah ketika kebahagiaan orang lain menjadi prioritas utamamu.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T11:55:00Z"
+  },
+  {
+    "id": 87,
+    "quote": "Barang siapa yang bertakwa kepada Allah, niscaya Allah akan mengadakan baginya jalan keluar.",
+    "author": "Al-Quran",
+    "category": "Islami",
+    "createdAt": "2026-07-18T11:56:00Z"
+  },
+  {
+    "id": 88,
+    "quote": "Saya tidak kelebihan berat badan, saya hanya terlalu kecil untuk berat saya yang sekarang.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T11:57:00Z"
+  },
+  {
+    "id": 89,
+    "quote": "Bisnis yang berkelanjutan adalah bisnis yang memikirkan dampaknya bagi generasi mendatang.",
+    "author": "Anonymous",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T11:58:00Z"
+  },
+  {
+    "id": 90,
+    "quote": "Eisenhower Matrix adalah alat sederhana untuk memilah tugas penting dan mendesak.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T11:59:00Z"
+  },
+  {
+    "id": 91,
+    "quote": "Kesuksesan adalah hasil dari persiapan yang matang, kerja keras, dan belajar dari kegagalan.",
+    "author": "Colin Powell",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T12:00:00Z"
+  },
+  {
+    "id": 92,
+    "quote": "Ilmu yang paling berguna adalah ilmu yang mengubah perilakumu menjadi lebih baik.",
+    "author": "Anonymous",
+    "category": "Belajar",
+    "createdAt": "2026-07-18T12:01:00Z"
+  },
+  {
+    "id": 93,
+    "quote": "Kehidupan adalah perjalanan, bukan balapan, jadi nikmati setiap momen yang kamu lewati.",
+    "author": "Anonymous",
+    "category": "Kehidupan",
+    "createdAt": "2026-07-18T12:02:00Z"
+  },
+  {
+    "id": 94,
+    "quote": "Machine learning akan mengubah setiap industri, dari kesehatan hingga transportasi.",
+    "author": "Anonymous",
+    "category": "Teknologi",
+    "createdAt": "2026-07-18T12:03:00Z"
+  },
+  {
+    "id": 95,
+    "quote": "Kode yang tidak bisa dibaca oleh programmer lain sama saja dengan kode yang salah.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T12:04:00Z"
+  },
+  {
+    "id": 96,
+    "quote": "Teman adalah orang yang membuatmu tertawa lebih keras, tersenyum lebih lebar, dan hidup lebih baik.",
+    "author": "Anonymous",
+    "category": "Persahabatan",
+    "createdAt": "2026-07-18T12:05:00Z"
+  },
+  {
+    "id": 97,
+    "quote": "Cinta adalah kekuatan yang mampu menyembuhkan luka terdalam sekalipun.",
+    "author": "Anonymous",
+    "category": "Cinta",
+    "createdAt": "2026-07-18T12:06:00Z"
+  },
+  {
+    "id": 98,
+    "quote": "Amal shaleh adalah perhiasan terindah bagi seorang hamba di sisi Tuhannya.",
+    "author": "Anonymous",
+    "category": "Islami",
+    "createdAt": "2026-07-18T12:07:00Z"
+  },
+  {
+    "id": 99,
+    "quote": "Saya punya memori yang bagus, tapi sangat pendek untuk hal-hal yang tidak menyenangkan.",
+    "author": "Anonymous",
+    "category": "Humor",
+    "createdAt": "2026-07-18T12:08:00Z"
+  },
+  {
+    "id": 100,
+    "quote": "Inovasi dalam bisnis adalah kunci untuk bertahan hidup di pasar yang kompetitif.",
+    "author": "Anonymous",
+    "category": "Bisnis",
+    "createdAt": "2026-07-18T12:09:00Z"
+  },
+  {
+    "id": 101,
+    "quote": "Fokus pada satu tugas pada satu waktu adalah rahasia menyelesaikan pekerjaan dengan kualitas tinggi.",
+    "author": "Anonymous",
+    "category": "Produktivitas",
+    "createdAt": "2026-07-18T12:10:00Z"
+  },
+  {
+    "id": 102,
+    "quote": "Jangan pernah berhenti bermimpi, karena mimpi adalah bahan bakar yang mendorongmu maju.",
+    "author": "Anonymous",
+    "category": "Motivasi",
+    "createdAt": "2026-07-18T12:11:00Z"
+  },
+  {
+    "id": 103,
+    "quote": "Setiap matahari terbit adalah pengingat bahwa kamu punya kesempatan baru untuk membuat perbedaan.",
+    "author": "Anonymous",
+    "category": "Inspirasi",
+    "createdAt": "2026-07-18T12:12:00Z"
+  },
+  {
+    "id": 104,
+    "quote": "Kesuksesan tidak datang dari apa yang kamu lakukan sesekali, tapi dari apa yang kamu lakukan setiap hari.",
+    "author": "Anonymous",
+    "category": "Kesuksesan",
+    "createdAt": "2026-07-18T12:13:00Z"
+  },
+  {
+    "id": 105,
+    "quote": "Satu baris kode yang efisien lebih baik dari seratus baris yang tidak perlu.",
+    "author": "Anonymous",
+    "category": "Programming",
+    "createdAt": "2026-07-18T12:14:00Z"
+  }
+]
