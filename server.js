@@ -3,15 +3,16 @@
  * A REST API built with Node.js + Express for managing random quotes.
  * Data is persisted in quotes.json (no database required).
  */
-
 const express = require("express");
 const fs = require("fs/promises");
 const path = require("path");
+const cors = require("cors");
 
+app.use(cors());
 const app = express();
 const PORT = process.env.PORT || 3000;
 const QUOTES_FILE = path.join(__dirname, "quotes.json");
-
+app.use(cors());
 // ─── Allowed Categories ───────────────────────────────────────────────────────
 const ALLOWED_CATEGORIES = [
   "Motivasi",
